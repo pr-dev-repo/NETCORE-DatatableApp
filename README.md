@@ -1,4 +1,5 @@
 <b>Lazy loading ( Server Side Processing ) in JQuery Datatables </b>
+</br>
 <b>Pending:</b>
 <ul>
 <li>Migrate to NET CORE, EF CORE</li>
